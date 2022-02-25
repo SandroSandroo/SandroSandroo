@@ -4,6 +4,6 @@
 
 <ul>
    
-    <li> <a href="https://www.linkedin.com/in/aleksandre-jakobia/">Linkedin</a> </li>
+    <li> <a href="https://www.linkedin.com/in/aleksandre-jakobia/"> Linkedin  </li>
     
 </ul>
